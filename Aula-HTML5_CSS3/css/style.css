@@ -1,0 +1,39 @@
+
+body{
+    background: rgb(238, 201, 241);
+    margin-left: 100px;
+    margin-right: 200px;
+}
+
+header{
+    margin-top: 70px;
+}
+
+
+h1{
+    color: rgb(71, 40, 75);
+    font-family: cursive;
+}
+
+h2{
+    color: rgb(83, 54, 110);
+    font-family: cursive;
+}
+
+
+p{
+    font-size: 18px;
+}
+
+footer{
+    margin-bottom: 30px;
+}
+
+.img_padrao{
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.logo{
+    width: 90px;
+}
